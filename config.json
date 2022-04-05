@@ -1,7 +1,7 @@
 {
-	"ip":"Jojolandtu.aternos.me",
-	"port": "37752",
-	"name": "bot1234vanev",
+	"ip":"78.46.105.177",
+	"port": "36449",
+	"name": "SkyBlockBot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
